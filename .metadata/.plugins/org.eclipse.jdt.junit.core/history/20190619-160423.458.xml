@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="Market-World" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="MyRunner.TestRunner" time="58.485">
+    <testsuite name="Feature: Market-World referral" time="58.485">
+      <testcase name="Functionality of login" classname="Market-World referral" time="58.485">
+        <error>org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=75.0.3770.90)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'HBPL-LPS023', ip: '192.168.1.73', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.8 (681f24ea911fe754973dda2fdc6d2a2e159dd300-refs/branch-heads/3770@{#40}), userDataDir=C:\Users\Hestabit\AppData\Local\Temp\scoped_dir8088_1377}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:53302}, acceptInsecureCerts=false, browserVersion=75.0.3770.90, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 6199b19493b2f5a875bb7c4f12c22d75&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:275)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)&#13;
+	at stepDefinition.AllMandatotry.user_clicks_on_Login_button_for_login(AllMandatotry.java:111)&#13;
+	at ✽.user clicks on Login button for login(D:/Cucumber Market world/Market-World/src/main/java/features/Referral.feature:15)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

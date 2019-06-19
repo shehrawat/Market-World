@@ -1,0 +1,120 @@
+package stepDefinition;
+
+import java.util.ArrayList;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class Signup 
+{
+	WebDriver driver;
+	
+	@Given("^users are already on login page$")
+	public void users_are_already_on_login_page() throws Exception 
+	{
+
+		System.setProperty("webdriver.chrome.driver", "D:\\All Jar Files\\Chromedriver\\Chrome\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("https://staging778.marketworld.online");
+	}
+
+	@When("^title of logins page is$")
+	public void title_of_logins_page_is() throws Exception 
+	{
+		String title = driver.getTitle();
+		System.out.println("Title is : "+title);
+	}
+
+	@Then("^Then user clicks on  Sign Up button$")
+	public void then_user_clicks_on_Sign_Up_button() throws Exception 
+	{
+		driver.findElement(By.xpath("//*[@id=\'nav\']/div[4]/ul/li[4]/a")).click();
+	}
+
+	@Then("^users enters \"([^\"]*)\" and \"([^\"]*)\"and \"([^\"]*)\"$")
+	public void users_enters_and_and(String fullname, String email, String password) throws Exception 
+	{
+		driver.findElement(By.name("full_name")).sendKeys(fullname);
+		driver.findElement(By.name("email")).sendKeys(email);
+		driver.findElement(By.name("password")).sendKeys(password);
+	}
+
+	@Then("^user click on signup button$")
+	public void user_click_on_signup_button() throws Exception 
+	{
+		driver.findElement(By.xpath("//*[@id=\'submit\']")).click();
+	}
+	
+	@Then("^user opens gmail$")
+	public void user_opens_gmail() throws Exception 
+	{
+	        driver.get("https://www.google.com/gmail/about/#");
+		    driver.findElement(By.xpath("/html/body/div[2]/div[1]/div[4]/ul[1]/li[2]/a")).click();
+		    Thread.sleep(1000);
+		    ArrayList<String> tabs2 = new ArrayList<String> (driver.getWindowHandles());
+		    driver.switchTo().window(tabs2.get(1));	   
+	}
+
+	@Then("^user entaer \"([^\"]*)\"and \"([^\"]*)\"$")
+	public void user_entaer_and(String email, String password) throws Exception 
+	{
+		driver.findElement(By.xpath("//*[@id=\'identifierId\']")).sendKeys(email);
+		driver.findElement(By.xpath("//*[@id=\"identifierNext\"]/span")).click();
+	    Thread.sleep(1000);
+	    driver.findElement(By.xpath("//*[@id=\'password\']/div[1]/div/div[1]/input")).sendKeys(password);
+	    driver.findElement(By.xpath("//*[@id=\"passwordNext\"]/span/span")).click();
+	    driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS) ;
+	    Thread.sleep(5000);
+	}
+
+	@Then("^user open email$")
+	public void user_open_email() throws Exception 
+	{
+		 driver.findElement(By.xpath("//*[@id=\':2p\']/td[5]")).click();
+		    Thread.sleep(5000);
+	}
+
+	@Then("^user verify himself$")
+	public void user_verify_himself() throws Exception 
+	{
+		 driver.findElement(By.linkText("Verify Your Email")).click();
+		 Thread.sleep(5000);
+	}
+	
+	@Then("^user enters \"([^\"]*)\"and \"([^\"]*)\" for login$")
+	public void user_enters_and_for_login(String email, String password) throws Exception 
+	{
+		ArrayList<String> tabs2 = new ArrayList<String> (driver.getWindowHandles());
+	    driver.switchTo().window(tabs2.get(2));
+	    Thread.sleep(5000);
+		driver.findElement(By.name("email")).sendKeys(email);
+		driver.findElement(By.name("password")).sendKeys(password);
+	}
+
+	@Then("^user clicks on Login button for login$")
+	public void user_clicks_on_Login_button_for_login() throws Exception 
+	{
+		driver.findElement(By.xpath("//*[@id=\"submit\"]")).click();
+		Thread.sleep(3000);
+		ArrayList<String> tabs2 = new ArrayList<String> (driver.getWindowHandles());
+	    driver.switchTo().window(tabs2.get(1));
+	    Thread.sleep(3000);
+	    driver.findElement(By.xpath("//*[@id=\":45\"]/div/div[2]/span/a")).click();
+	    Thread.sleep(3000);
+	    driver.findElement(By.xpath("//*[@id=\":89\"]/td[5]")).click();
+	}
+	
+	@Then("^user close the browser$")
+	public void user_close_the_browser() throws Exception 
+	{
+//		driver.close();
+	}
+
+}

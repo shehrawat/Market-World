@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="Market-World" tests="1" started="1" failures="0" errors="2" ignored="0">
+  <testsuite name="MyRunner.TestRunner" time="0.001">
+    <testsuite name="Feature: Market-World referral" time="0.001">
+      <testcase name="Functionality of login" classname="Market-World referral" time="0.001">
+        <error>cucumber.runtime.junit.UndefinedThrowable: The step "user enters "testingajay5@gmail.com"and "qwerty@@" for login" is undefined&#13;
+&#13;
+cucumber.runtime.junit.UndefinedThrowable: The step "user clicks on Login button for login" is undefined&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

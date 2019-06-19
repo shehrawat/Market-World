@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "line": 19,
+        "line": 17,
         "name": "Functionality of login",
         "description": "",
         "id": "market-world-referral;functionality-of-login;;2",
@@ -12,951 +12,107 @@
         "steps": [
           {
             "result": {
-              "duration": 7935455018,
+              "duration": 10078272760,
               "status": "passed"
             },
             "line": 5,
-            "name": "users are already on login page",
+            "name": "user is already on home page",
             "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
+              "location": "LoginStepDefinition.user_is_already_on_home_page()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 21061984,
+              "duration": 33187953,
               "status": "passed"
             },
             "line": 6,
-            "name": "title of logins page is",
+            "name": "title of home page is",
             "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
+              "location": "LoginStepDefinition.title_of_home_page_is()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 1715356708,
+              "duration": 4116392900,
               "status": "passed"
             },
             "line": 7,
-            "name": "Then user clicks on  Sign Up button",
+            "name": "Then user clicks on  login button",
             "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
+              "location": "LoginStepDefinition.then_user_clicks_on_login_button()"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 1524676653,
+              "duration": 314511682,
               "status": "passed"
             },
             "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay5@yopmail.com\"and \"qwerty@@\"",
+            "name": "users enter the \"testingajay5@gmail.com\"and \"qwerty@@\"",
             "match": {
               "arguments": [
                 {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay5@yopmail.com",
-                  "offset": 31
+                  "val": "testingajay5@gmail.com",
+                  "offset": 17
                 },
                 {
                   "val": "qwerty@@",
-                  "offset": 61
+                  "offset": 45
                 }
               ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
+              "location": "LoginStepDefinition.users_enter_the_and(String,String)"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 1605265121,
+              "duration": 9162763351,
               "status": "passed"
             },
             "line": 9,
-            "name": "user click on signup button",
+            "name": "user click on login button",
             "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
+              "location": "LoginStepDefinition.user_click_on_login_button()"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 2205100838,
+              "duration": 11467179346,
               "status": "passed"
             },
-            "line": 14,
-            "name": "user close the browser",
+            "line": 10,
+            "name": "user click on enter competition button",
             "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 20,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;3",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 5596005726,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 26407708,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 2134561209,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
+              "location": "LoginStepDefinition.user_click_on_enter_competition_button()"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 982250525,
+              "duration": 3700467245,
               "status": "passed"
             },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay9@yopmail.com\"and \"qwerty@@\"",
+            "line": 11,
+            "name": "user click on play game button",
             "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay9@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 61
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
+              "location": "LoginStepDefinition.user_click_on_play_game_button()"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 1200694948,
+              "duration": 3167210411,
               "status": "passed"
             },
-            "line": 9,
-            "name": "user click on signup button",
+            "line": 12,
+            "name": "user click on start game button",
             "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2218641785,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 21,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;4",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 5611171745,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 82557737,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 2335031560,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 948102314,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay8@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay8@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 61
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1127370949,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2114686154,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 22,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;5",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 5574142851,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 30049021,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 2726510770,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 866589012,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay6@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay6@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 61
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1192565643,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2342477995,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 23,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;6",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 5895599518,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 47056023,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 2140568092,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2330061613,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"singhajay.hestabit@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "singhajay.hestabit@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 67
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2315327815,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 210598134,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 24,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;7",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 5866098766,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 39225919,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 1493614381,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1198132411,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay4@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay4@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 61
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1281691164,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2109440690,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 25,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;8",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 6062699655,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 11088932,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 1990008001,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1279750710,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay10@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay10@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 62
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2396912562,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2155471620,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 26,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;9",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 5793158437,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 87430189,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 1877110728,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1265415187,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay11@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay11@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 62
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 909313353,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2094178755,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 27,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;10",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 7186424554,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 75192220,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 1996503155,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 855266010,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay2@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay2@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 61
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 742805693,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2326287673,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 28,
-        "name": "Functionality of login",
-        "description": "",
-        "id": "market-world-referral;functionality-of-login;;11",
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 5927532153,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "users are already on login page",
-            "match": {
-              "location": "AllMandatotry.users_are_already_on_login_page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 55368479,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 1498522752,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1196640756,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay3@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay3@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 61
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1097833488,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2122691911,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
+              "location": "LoginStepDefinition.user_click_on_start_game_button()"
             },
             "keyword": "Then "
           }
@@ -967,92 +123,6 @@
     "description": "",
     "id": "market-world-referral",
     "keyword": "Feature",
-    "uri": "D:/Cucumber Market world/Market-World/src/main/java/features/Referral.feature"
-  }
-]   },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 21933926,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "title of logins page is",
-            "match": {
-              "location": "AllMandatotry.title_of_logins_page_is()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 1490275820,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "Then user clicks on  Sign Up button",
-            "match": {
-              "location": "AllMandatotry.then_user_clicks_on_Sign_Up_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1144428081,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "users enters \"AJay Singh\" and \"testingajay3@yopmail.com\"and \"qwerty@@\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "AJay Singh",
-                  "offset": 14
-                },
-                {
-                  "val": "testingajay3@yopmail.com",
-                  "offset": 31
-                },
-                {
-                  "val": "qwerty@@",
-                  "offset": 61
-                }
-              ],
-              "location": "AllMandatotry.users_enters_and_and(String,String,String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 5003733678,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user click on signup button",
-            "match": {
-              "location": "AllMandatotry.user_click_on_signup_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 103888133,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user close the browser",
-            "match": {
-              "location": "AllMandatotry.user_close_the_browser()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      }
-    ],
-    "name": "Market-World referral",
-    "description": "",
-    "id": "market-world-referral",
-    "keyword": "Feature",
-    "uri": "D:/Cucumber Market world/Market-World/src/main/java/features/Referral.feature"
+    "uri": "D:/Cucumber Market world/Market-World/src/main/java/features/Login.feature"
   }
 ]

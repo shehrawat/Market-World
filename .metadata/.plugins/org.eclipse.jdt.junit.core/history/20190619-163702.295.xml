@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="Market-World" tests="1" started="1" failures="0" errors="3" ignored="0">
+  <testsuite name="MyRunner.TestRunner" time="0.006">
+    <testsuite name="Feature: Market-World referral" time="0.006">
+      <testcase name="Functionality of login" classname="Market-World referral" time="0.006">
+        <error>cucumber.runtime.junit.UndefinedThrowable: The step "user click on enter competition button" is undefined&#13;
+&#13;
+cucumber.runtime.junit.UndefinedThrowable: The step "user click on play game button" is undefined&#13;
+&#13;
+cucumber.runtime.junit.UndefinedThrowable: The step "user click on start game button" is undefined&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

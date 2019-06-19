@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="Market-World" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="MyRunner.TestRunner" time="44.218">
+    <testsuite name="Feature: Market-World referral" time="44.218">
+      <testcase name="Functionality of login" classname="Market-World referral" time="44.218">
+        <error>java.lang.NullPointerException&#13;
+	at stepDefinition.AllMandatotry.user_verify_himself(AllMandatotry.java:87)&#13;
+	at ✽.user verify himself(D:/Cucumber Market world/Market-World/src/main/java/features/Referral.feature:13)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>
