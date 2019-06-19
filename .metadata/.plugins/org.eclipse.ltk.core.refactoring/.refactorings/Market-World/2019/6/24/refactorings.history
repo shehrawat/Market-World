@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Market-World&apos;&#x0D;&#x0A;- Original project: &apos;Market-World&apos;&#x0D;&#x0A;- Original element: &apos;Market-World/src/main/java/Market_World.Market_World&apos;" description="Delete element" element1="/src\/main\/java&lt;Market_World.Market_World" element2="/src\/main\/java&lt;Market_World" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1560148234977" subPackages="false" version="1.0"/>
+</session>

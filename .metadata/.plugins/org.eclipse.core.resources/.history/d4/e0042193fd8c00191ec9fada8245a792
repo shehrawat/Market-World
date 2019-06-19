@@ -1,0 +1,22 @@
+package stepDefinition;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class AllMandatotry 
+{
+	public static void abc()
+	{
+		WebDriver driver;
+		System.setProperty("webdriver.chrome.driver", "D:\\All Jar Files\\Chromedriver\\Chrome\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("https://staging778.marketworld.online/");
+	}
+
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}

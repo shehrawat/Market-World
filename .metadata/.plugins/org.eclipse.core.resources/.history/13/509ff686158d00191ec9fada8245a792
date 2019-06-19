@@ -1,0 +1,40 @@
+package stepDefinition;
+
+import java.io.File;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class AllMandatotry 
+{
+	
+	public static void abc()
+	{
+		WebDriver driver;
+		System.setProperty("webdriver.chrome.driver", "D:\\All Jar Files\\Chromedriver\\Chrome\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("https://staging778.marketworld.online/");
+	}
+	
+	public static void xyz() throws Exception
+	{
+		WebDriver driver = null;
+		File screen = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		try {
+			FileUtils.copyFile(screen, new File("D:\\Screenshot/Ajay.png"));
+			
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+	}
+
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}

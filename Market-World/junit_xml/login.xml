@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="128.156376">
+<testcase classname="Market-World referral" name="Functionality of login" time="15.052872">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay5@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 2" time="12.167039">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay9@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 3" time="12.230036">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay8@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 4" time="12.742588">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay6@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 5" time="12.942996">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "singhajay.hestabit@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 6" time="11.994977">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay4@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 7" time="13.902804">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay10@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 8" time="12.031921">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay11@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 9" time="13.187434">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay2@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 10" time="11.903709">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay3@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
+main/java/features/Referral.feature:5)&#13;&#10;"><![CDATA[Given users are already on login page.......................................failed
+When title of logins page is................................................skipped
+Then Then user clicks on  Sign Up button....................................skipped
+Then users enters "AJay Singh" and "testingajay10@yopmail.com"and "qwerty@@".skipped
+Then user click on signup button............................................skipped
+Then user close the browser.................................................skipped
+
+StackTrace:
+org.openqa.selenium.WebDriverException: unknown error: failed to change window state to maximized, current state is minimized
+  (Session info: chrome=75.0.3770.80)
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'HBPL-LPS023', ip: '192.168.1.73', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.8 (681f24ea911fe754973dda2fdc6d2a2e159dd300-refs/branch-heads/3770@{#40}), userDataDir=C:\Users\Hestabit\AppData\Local\Temp\scoped_dir11328_13940}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:55964}, acceptInsecureCerts=false, browserVersion=75.0.3770.80, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: aafa9dc433529990eb5112ea61b06536
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:703)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:934)
+	at stepDefinition.AllMandatotry.users_are_already_on_login_page(AllMandatotry.java:24)
+	at ✽.users are already on login page(D:/Cucumber Market world/Market-World/src/main/java/features/Referral.feature:5)
+]]></failure>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 8" time="16.70054">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay11@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 9" time="13.207724">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay2@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Market-World referral" name="Functionality of login 10" time="14.081892">
+<system-out><![CDATA[Given users are already on login page.......................................passed
+When title of logins page is................................................passed
+Then Then user clicks on  Sign Up button....................................passed
+Then users enters "AJay Singh" and "testingajay3@yopmail.com"and "qwerty@@".passed
+Then user click on signup button............................................passed
+Then user close the browser.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

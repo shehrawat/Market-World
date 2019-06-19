@@ -1,0 +1,86 @@
+package stepDefinition;
+
+import java.awt.Rectangle;
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.image.BufferedImage;
+import java.io.File;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class HomeStepDefinition
+{
+	
+	WebDriver driver;
+
+	@Given("^users are already on Home page$")
+	public void users_are_already_on_login_pages() throws Exception 
+	{
+		System.setProperty("webdriver.chrome.driver", "D:\\All Jar Files\\Chromedriver\\Chrome\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("https://staging778.marketworld.online/");
+	}
+
+	@When("^title of Home page is$")
+	public void title_of_logins_page_is() throws Exception 
+	{
+		String title = driver.getTitle();
+		System.out.println("Title of Home Page is : "+title);
+		Thread.sleep(2000);
+	}
+
+	@Then("^users click on Competition button\"$")
+	public void users_click_on_Competition_button() throws Exception 
+	{
+		driver.findElement(By.xpath("//*[@id=\'nav\']/div[4]/ul/li[1]/a")).click();
+		Thread.sleep(2000);
+	}
+
+	@Then("^users enters click on  Winners button$")
+	public void users_enters_click_on_Winners_button() throws Exception 
+	{
+		driver.findElement(By.xpath("//*[@id=\'nav\']/div/ul/li[2]/a")).click();
+		Thread.sleep(2000);
+
+
+		File screen = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+			try {
+				FileUtils.copyFile(screen, new File("D:\\Screenshot/Ajay.png"));
+				
+			} catch (Exception e) {
+				System.out.println(e.getMessage());
+			}
+		}
+}
+
+//	@Then("^users enters click on  Login button$")
+//	public void users_enters_click_on_Login_button() throws Exception 
+//	{
+//		driver.findElement(By.xpath("//*[@id=\'nav\']/div[4]/ul/li[3]/a")).click();
+//		Thread.sleep(2000);
+//	}
+//
+//	@Then("^user clicks on  Sign Up button$")
+//	public void user_clicks_on_Sign_Up_button() throws Exception 
+//	{
+//		driver.findElement(By.xpath("//*[@id=\'nav\']/div[4]/ul/li[4]/a")).click();
+//		Thread.sleep(2000);
+//	}
+//
+//	@Then("^user close the browser$")
+//	public void user_close_the_browser() throws Exception 
+//	{
+//
+//	}
+	
+
