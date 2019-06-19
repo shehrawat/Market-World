@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="Market-World" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="MyRunner.TestRunner" time="62.799">
-    <testsuite name="Feature: Market-World referral" time="62.799">
-      <testcase name="Functionality of login" classname="Market-World referral" time="62.799"/>
-    </testsuite>
-  </testsuite>
-</testrun>

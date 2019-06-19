@@ -1,8 +1,0 @@
-Feature: Market-World
-
-Scenario: Market World Home page test
-
-Given user open the new browser
-#Then user is on Home Page
-#Then user see the competition
-#Then validate Home page title

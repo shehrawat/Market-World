@@ -1,8 +1,0 @@
-Feature: Market-World
-
-Scenario: Home page test
-
-	Given user opens browser
-	Then user is on login Page
-	Then user log into app
-	Then validate Home page title

@@ -10,4 +10,6 @@
 <fullyQualifiedTypeName name="stepDefinition.AllMandatotry"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
 <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.Action"/>
 </qualifiedTypeNameHistroy>
