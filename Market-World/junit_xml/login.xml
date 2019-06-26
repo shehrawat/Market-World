@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="100" time="1109.320294">
-<testcase classname="Market-World referral" name="Functionality of SignUp" time="13.917015">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="48" time="490.29311">
+<testcase classname="Market-World referral" name="Functionality of SignUp" time="12.531151">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -8,7 +8,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 2" time="9.307253">
+<testcase classname="Market-World referral" name="Functionality of SignUp 2" time="10.849675">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -17,7 +17,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 3" time="11.831864">
+<testcase classname="Market-World referral" name="Functionality of SignUp 3" time="10.607445">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -26,7 +26,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 4" time="11.115497">
+<testcase classname="Market-World referral" name="Functionality of SignUp 4" time="10.787346">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -35,7 +35,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 5" time="10.766393">
+<testcase classname="Market-World referral" name="Functionality of SignUp 5" time="10.556652">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -44,7 +44,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 6" time="11.025747">
+<testcase classname="Market-World referral" name="Functionality of SignUp 6" time="10.443412">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -53,7 +53,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 7" time="11.317178">
+<testcase classname="Market-World referral" name="Functionality of SignUp 7" time="8.586013">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -62,7 +62,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 8" time="8.915389">
+<testcase classname="Market-World referral" name="Functionality of SignUp 8" time="10.904624">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -71,7 +71,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 9" time="8.768107">
+<testcase classname="Market-World referral" name="Functionality of SignUp 9" time="10.59168">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -80,7 +80,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 10" time="10.701555">
+<testcase classname="Market-World referral" name="Functionality of SignUp 10" time="10.573349">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -89,7 +89,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 11" time="8.397767">
+<testcase classname="Market-World referral" name="Functionality of SignUp 11" time="10.764993">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -98,7 +98,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 12" time="12.196985">
+<testcase classname="Market-World referral" name="Functionality of SignUp 12" time="10.354606">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -107,7 +107,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 13" time="11.645194">
+<testcase classname="Market-World referral" name="Functionality of SignUp 13" time="10.661251">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -116,7 +116,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 14" time="14.394725">
+<testcase classname="Market-World referral" name="Functionality of SignUp 14" time="10.830762">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -125,7 +125,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 15" time="10.919726">
+<testcase classname="Market-World referral" name="Functionality of SignUp 15" time="8.656184">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -134,7 +134,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 16" time="11.154498">
+<testcase classname="Market-World referral" name="Functionality of SignUp 16" time="10.824587">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -143,7 +143,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 17" time="11.484422">
+<testcase classname="Market-World referral" name="Functionality of SignUp 17" time="8.308047">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -152,7 +152,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 18" time="9.428617">
+<testcase classname="Market-World referral" name="Functionality of SignUp 18" time="8.490596">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -161,7 +161,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 19" time="11.24931">
+<testcase classname="Market-World referral" name="Functionality of SignUp 19" time="8.654933">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -170,7 +170,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 20" time="11.621138">
+<testcase classname="Market-World referral" name="Functionality of SignUp 20" time="10.680118">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -179,7 +179,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 21" time="10.801765">
+<testcase classname="Market-World referral" name="Functionality of SignUp 21" time="10.652869">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -188,7 +188,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 22" time="10.86302">
+<testcase classname="Market-World referral" name="Functionality of SignUp 22" time="10.242946">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -197,7 +197,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 23" time="21.495433">
+<testcase classname="Market-World referral" name="Functionality of SignUp 23" time="10.314302">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -206,7 +206,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 24" time="13.662526">
+<testcase classname="Market-World referral" name="Functionality of SignUp 24" time="10.877768">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -215,7 +215,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 25" time="10.947138">
+<testcase classname="Market-World referral" name="Functionality of SignUp 25" time="8.651633">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -224,7 +224,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 26" time="8.662246">
+<testcase classname="Market-World referral" name="Functionality of SignUp 26" time="10.731749">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -233,7 +233,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 27" time="10.645144">
+<testcase classname="Market-World referral" name="Functionality of SignUp 27" time="10.642967">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -242,7 +242,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 28" time="11.512452">
+<testcase classname="Market-World referral" name="Functionality of SignUp 28" time="12.260153">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -251,7 +251,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 29" time="10.721316">
+<testcase classname="Market-World referral" name="Functionality of SignUp 29" time="10.761648">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -260,7 +260,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 30" time="10.531692">
+<testcase classname="Market-World referral" name="Functionality of SignUp 30" time="10.593752">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -269,7 +269,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 31" time="12.315412">
+<testcase classname="Market-World referral" name="Functionality of SignUp 31" time="10.873916">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -278,7 +278,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 32" time="10.658064">
+<testcase classname="Market-World referral" name="Functionality of SignUp 32" time="8.416202">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -287,7 +287,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 33" time="11.849677">
+<testcase classname="Market-World referral" name="Functionality of SignUp 33" time="8.593969">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -296,7 +296,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 34" time="8.309229">
+<testcase classname="Market-World referral" name="Functionality of SignUp 34" time="8.420415">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -305,7 +305,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 35" time="8.394175">
+<testcase classname="Market-World referral" name="Functionality of SignUp 35" time="10.793394">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -314,7 +314,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 36" time="10.93768">
+<testcase classname="Market-World referral" name="Functionality of SignUp 36" time="8.758494">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -323,7 +323,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 37" time="10.537327">
+<testcase classname="Market-World referral" name="Functionality of SignUp 37" time="11.731015">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -332,7 +332,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 38" time="10.484636">
+<testcase classname="Market-World referral" name="Functionality of SignUp 38" time="10.665137">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -341,7 +341,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 39" time="10.815732">
+<testcase classname="Market-World referral" name="Functionality of SignUp 39" time="10.382391">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -350,7 +350,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 40" time="11.493319">
+<testcase classname="Market-World referral" name="Functionality of SignUp 40" time="8.327215">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -359,7 +359,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 41" time="11.58735">
+<testcase classname="Market-World referral" name="Functionality of SignUp 41" time="8.320296">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -368,7 +368,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 42" time="11.698572">
+<testcase classname="Market-World referral" name="Functionality of SignUp 42" time="10.468629">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -377,7 +377,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 43" time="13.305289">
+<testcase classname="Market-World referral" name="Functionality of SignUp 43" time="10.397441">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -386,7 +386,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 44" time="10.96661">
+<testcase classname="Market-World referral" name="Functionality of SignUp 44" time="10.429685">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -395,7 +395,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 45" time="10.820529">
+<testcase classname="Market-World referral" name="Functionality of SignUp 45" time="10.693201">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -404,7 +404,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 46" time="8.071464">
+<testcase classname="Market-World referral" name="Functionality of SignUp 46" time="11.471487">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -413,7 +413,7 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 47" time="10.559084">
+<testcase classname="Market-World referral" name="Functionality of SignUp 47" time="10.429991">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
@@ -422,479 +422,11 @@ Then user click on signup button............................................pass
 Then user close the browser.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 48" time="9.141897">
+<testcase classname="Market-World referral" name="Functionality of SignUp 48" time="10.733021">
 <system-out><![CDATA[Given users are already on login page.......................................passed
 When title of logins page is................................................passed
 Then Then user clicks on  Sign Up button....................................passed
 Then users enters "AJay Singh" and "testiwsdafanwgajay11@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 49" time="10.260617">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testwqfAsdDWiwngajay2@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 50" time="10.956947">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testQwdainsdgawjay3@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 51" time="8.308846">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testasefewaisdnwgajay9@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 52" time="10.965017">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testwerwingajasdwy8ds@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 53" time="10.828394">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testi3wqrawngajwsday6we@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 54" time="10.688304">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "singhawefajaye.hwesdstabit@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 55" time="11.056199">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testiasfaewngajwawy4sd@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 56" time="10.840873">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "ssddwtestwrawingajeay10@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 57" time="8.538175">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "twesdswqetingajaey11@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 58" time="12.7376">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tewwrsdastingajray2@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 59" time="10.731636">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "teswewasdftingajfay3@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 60" time="13.450896">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "teewwfastsdingajays9@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 61" time="11.009501">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesfewwastisdngajazy8@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 62" time="11.44602">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "teswqtwingajasday6@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 63" time="10.740342">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "singfewwashajaysdq.hestabit@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 64" time="11.736657">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "sdteweafstwingaawjay4@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 65" time="11.253964">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesdswefatiwngaqjary10@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 66" time="8.374662">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "teswsdeftingwae2jay11@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 67" time="10.023762">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesqwrsd3tingwarewqjay2@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 68" time="8.362663">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tes3rtinsdgawrwqjay3@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 69" time="8.255194">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testhtrhfisdngawrwajay9@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 70" time="11.011977">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testsadsningsdajw2qeqay8@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 71" time="11.503981">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testxzczinga2qsdewwjay6@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 72" time="9.84982">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "singhytuytajaye2sdwwq.hestabit@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 73" time="11.713076">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testry6utiddsngwrajawsdy4@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 74" time="12.903429">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "wteukuystiddsne2gajay10@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 75" time="12.080836">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "twewq4qwstin4ddsyt5gajay11@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 76" time="10.258411">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tewweqwstingajytddsuay2@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 77" time="12.807931">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "ddsteswdsfdgtingajrgDSAtay3@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 78" time="10.961361">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesddsxwhsdrtingaDASjweray11@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 79" time="12.9669">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testhwddsserhiASDngadfsjay2@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 80" time="13.601947">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesncvwctddsi34q23ADSngajay3@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 81" time="11.25957">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesfewwastisdngASDajazy8@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 82" time="14.164675">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "teswqtwingajDSAasday6@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 83" time="10.822679">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "singfewwashajaysdqAFDS.hestabit@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 84" time="10.039713">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "sdteweafstwingAFSDaawjay4@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 85" time="11.659066">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesdswefatiwASngaqjary10@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 86" time="11.206335">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "teswsdeftSAFingwae2jay11@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 87" time="11.484374">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesqwrSAFsd3tingwarewqjay2@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 88" time="12.03024">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tes3rVtinsdgawrwqjay3@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 89" time="9.422405">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testVhtrhfisdngawrwajay9@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 90" time="13.274367">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "asxztestsadsningsdajw2qeqay8@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 91" time="11.958542">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testxzczinga2qsdasxzewwjay6@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 92" time="9.478961">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "singhytuytajasxzaye2sdwwq.hestabit@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 93" time="9.571008">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "testry6uasxztiddsngwrajawsdy4@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 94" time="11.705272">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "wteuasxzkuystiddsne2gajay10@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 95" time="12.439837">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "asxztwewq4qwstin4ddsyt5gajay11@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 96" time="11.055424">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tewweqwstingajasxzytddsuay2@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 97" time="9.263009">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "ddsteswdsfasxzdgtingajrgtay3@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 98" time="11.492027">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "tesddsasxzxwhsdrtingajweray11@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 99" time="13.839993">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "teasxzsthwddsserhingadfsjay2@yopmail.com"and "qwerty@@".passed
-Then user click on signup button............................................passed
-Then user close the browser.................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Market-World referral" name="Functionality of SignUp 100" time="10.979701">
-<system-out><![CDATA[Given users are already on login page.......................................passed
-When title of logins page is................................................passed
-Then Then user clicks on  Sign Up button....................................passed
-Then users enters "AJay Singh" and "teasxzsncvwctddsi34q23ngajay3@yopmail.com"and "qwerty@@".passed
 Then user click on signup button............................................passed
 Then user close the browser.................................................passed
 ]]></system-out>
